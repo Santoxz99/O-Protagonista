@@ -1,3 +1,12 @@
+body{
+    background: rgb(221, 2, 221)
+    font-family: "Noto Serif", serif;
+    margin: 0px
+    margin-bottom: 100px;
+}
+
+
+
 .chamada{
     background: rgb(0, 255, 221);
     margin-top: 80px;
